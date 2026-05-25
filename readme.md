@@ -22,7 +22,7 @@ A lightweight Windows system tray app that automatically uploads your Rocket Lea
 
 ## Download
 
-Go to [Releases](https://github.com/yourusername/auto_ballchasing/releases) and download the latest `AutoBallChasing.exe`.
+Go to [Releases](https://github.com/liamdoocey/autoballchasing/releases) and download the latest `AutoBallChasing.exe`.
 
 ## Setup
 
