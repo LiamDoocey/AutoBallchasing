@@ -52,6 +52,11 @@ The app watches the default Rocket League replay folder: `Documents\My Games\Roc
 
 Tick the **Start on login** checkbox to have the app launch automatically with Windows. Your replays will be uploaded even if you forget to open the app manually.
 
+## Ballchasing API limits
+
+<img width="1377" height="381" alt="image" src="https://github.com/user-attachments/assets/f56f3e2e-ae77-4127-9fab-39f1459bbbc5" />
+
+
 ## Building from Source
 
 You will need:
