@@ -1,3 +1,8 @@
+## Windows SmartScreen Warning
+
+When running for the first time, Windows may show a SmartScreen warning. 
+This is because the app is not yet code signed. Click **More info** → **Run anyway** to proceed.
+
 # Auto BallChasing
 
 A lightweight Windows system tray app that automatically uploads your Rocket League replay files to [ballchasing.com](https://ballchasing.com) as soon as they are saved.
